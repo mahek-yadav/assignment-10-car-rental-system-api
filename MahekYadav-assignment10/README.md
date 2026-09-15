@@ -2,11 +2,6 @@
 
 A REST API for managing vehicles, customer rentals, bookings, authentication, and rental availability using **Node.js, Express.js, Supabase PostgreSQL, and Supabase Authentication**.
 
-Example:
-
-```text
-https://car-rental-api-xxxx.onrender.com
-```
 
 ## 🛠️ Technologies Used
 
